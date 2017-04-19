@@ -1,0 +1,70 @@
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\bin\Debug\Projekat2-skocko.exe.config
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\bin\Debug\Projekat2-skocko.exe
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\bin\Debug\Projekat2-skocko.pdb
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2-skocko.csprojResolveAssemblyReference.cache
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\MainWindow.g.cs
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\App.g.cs
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2-skocko_MarkupCompile.cache
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2-skocko_MarkupCompile.lref
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\MainWindow.baml
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2-skocko.g.resources
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2_skocko.Properties.Resources.resources
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2-skocko.csproj.GenerateResource.Cache
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2-skocko.exe
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2-skocko.pdb
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2-skocko_Content.g.cs
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\bin\Debug\Ween - Ocean Man Chiptune Cover.mp3
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\DifficultyPage.g.cs
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\HighscoresPage.g.cs
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\MainPage.g.cs
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\DifficultyPage.baml
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\HighscoresPage.baml
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\MainPage.baml
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Igra.g.cs
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Igra.baml
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\EndPage.g.cs
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\EndPage.baml
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\bin\Debug\Victory.mp3
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\bin\Debug\Lose.mp3
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\bin\Debug\Projekat2-skocko.exe.manifest
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\bin\Debug\Projekat2-skocko.application
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2-skocko.exe.manifest
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2-skocko.application
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\App.baml
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\bin\Debug\Game.mp3
+C:\Users\Car Lazar\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\bin\Debug\HSMusic.mp3
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\bin\Debug\Projekat2-skocko.exe.config
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2-skocko.exe
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2-skocko.pdb
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\bin\Debug\Game.mp3
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\bin\Debug\HSMusic.mp3
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\bin\Debug\Lose.mp3
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\bin\Debug\Victory.mp3
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\bin\Debug\Ween - Ocean Man Chiptune Cover.mp3
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\bin\Debug\Projekat2-skocko.exe.manifest
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\bin\Debug\Projekat2-skocko.application
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\bin\Debug\Projekat2-skocko.exe
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\bin\Debug\Projekat2-skocko.pdb
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2-skocko.csprojResolveAssemblyReference.cache
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\DifficultyPage.g.cs
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\EndPage.g.cs
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\HighscoresPage.g.cs
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Igra.g.cs
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\MainPage.g.cs
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\MainWindow.g.cs
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\App.g.cs
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2-skocko_Content.g.cs
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2-skocko_MarkupCompile.cache
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2-skocko_MarkupCompile.lref
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\App.baml
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\DifficultyPage.baml
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\EndPage.baml
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\HighscoresPage.baml
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Igra.baml
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\MainPage.baml
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\MainWindow.baml
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2-skocko.g.resources
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2_skocko.Properties.Resources.resources
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2-skocko.csproj.GenerateResource.Cache
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2-skocko.exe.manifest
+C:\Users\laki93\Desktop\TVP-Projekat-2\Projekat2-skocko\Projekat2-skocko\obj\Debug\Projekat2-skocko.application

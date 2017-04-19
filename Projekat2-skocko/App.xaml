@@ -1,0 +1,9 @@
+﻿<Application x:Class="Projekat2_skocko.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Projekat2_skocko"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <MediaElement x:Key="MainMenuMusic" LoadedBehavior="Manual" Source="Ween - Ocean Man Chiptune Cover.mp3" />
+    </Application.Resources>
+</Application>

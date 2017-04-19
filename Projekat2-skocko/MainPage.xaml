@@ -1,0 +1,28 @@
+﻿<Page x:Class="Projekat2_skocko.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Projekat2_skocko"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="MainPage">
+
+    <Grid Background="#FF0990B8">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="6*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label Content="Mastermind" FontFamily="MV Boli" FontSize="32"/>
+            <Button Content="New Game" Margin="0 20 0 5" MaxWidth="130" Click="ButtonNewGame_Click" FontSize="18"/>
+            <Button Content="Highscores"  Margin="0 0 0 5" MaxWidth="130" Click="ButtonHighscores_Click" FontSize="18"/>
+            <Button Content="Exit"  Margin="0 20 0 5" MaxWidth="130" Click="ButtonExit_Click" FontSize="18"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Row="1">
+            <Label Content="Volume:"  VerticalAlignment="Center"/>
+            <Slider x:Name="VolumeSlider" Width="100" VerticalAlignment="Center" Maximum="1" LargeChange="0.1" SmallChange="0.01" ValueChanged="valueChanged"/>
+        </StackPanel>
+        <MediaElement x:Name="mediaElement" HorizontalAlignment="Left" VerticalAlignment="Bottom" MediaEnded="mediaElement_MediaEnded" Source="Ween - Ocean Man Chiptune Cover.mp3" LoadedBehavior="Play" Balance="0"/>
+    </Grid>
+</Page>
